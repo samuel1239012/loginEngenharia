@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: red;
+
+    img{
+        height: 50px;
+        width: auto;
+    }
+}
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.container{
+    border: 1px solid black;
+    text-align: center;
+    margin: 100px auto;
+    width: 300px;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.image_whatsapp{
+    width: 20px;
+    height: auto;
+}
+
+footer{
+    height: 100px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+
+.corpo{
+    background-color: black;
+    color: red;
+}
